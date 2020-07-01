@@ -17,7 +17,7 @@
         <java.version>1.8</java.version>
         <project.version>1.0-SNAPSHOT</project.version>
         <springboot.version>1.5.12.RELEASE</springboot.version>
-        <mysql.jdbcdriver.version>5.1.37</mysql.jdbcdriver.version>
+        <mysql.jdbcdriver.version>8.0.16</mysql.jdbcdriver.version>
     </properties>
     <dependencyManagement>
         <dependencies>
